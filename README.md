@@ -16,4 +16,5 @@ Learn about data science, and how it - along with data analytics, data visualiza
 In this session, follow along with a live demo in Google Colab to learn how to use regression in Python to answer practical business questions using a Spotify dataset.
 
 ## Session 3: Making your next professional play in Data Science
+<a href="https://colab.research.google.com/github/MattFinney/practical_data_science_in_python/blob/main/Session_3_Academic_and_Career_Pathways.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><a><br>
 In this session, we’ll talk about academic and career paths in data science and related fields, tips for applications and interviews, and resources to continue your exploration of this growing area.
