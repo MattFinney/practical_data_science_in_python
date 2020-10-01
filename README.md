@@ -7,12 +7,12 @@ This 3-part series led by POC working in Big Data will introduce you to data sci
 
 ## Session 1: Introduction to Data Science
 ### Core Concepts and Exploratory Data Analysis
-<a href="https://colab.research.google.com/github/MattFinney/practical_data_science_in_python/blob/main/Session_1_Introduction_to_Data_Science.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><a>
+<a href="https://colab.research.google.com/github/MattFinney/practical_data_science_in_python/blob/main/Session_1_Introduction_to_Data_Science.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><a><br>
 Learn about data science, and how it - along with data analytics, data visualization, and data engineering - is transforming business and industry. Follow along with a live coding demo in Google Colab to learn how to use exploratory data analysis to quickly derive meaningful insight from structured data.
 
 ## Session 2: Practical Data Science in Python
 ### Unsupervised Learning: Classifying Spotify Tracks by Genre with $k$-Means Clustering
-<a href="https://colab.research.google.com/github/MattFinney/practical_data_science_in_python/blob/main/Session_2_Practical_Data_Science.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><a>
+<a href="https://colab.research.google.com/github/MattFinney/practical_data_science_in_python/blob/main/Session_2_Practical_Data_Science.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><a><br>
 In this session, follow along with a live demo in Google Colab to learn how to use regression in Python to answer practical business questions using a Spotify dataset.
 
 ## Session 3: Making your next professional play in Data Science
